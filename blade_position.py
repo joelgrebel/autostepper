@@ -1,4 +1,3 @@
-import numpy as np
 
 def gdsii_to_blades(left,right, top, bottom):
     """
