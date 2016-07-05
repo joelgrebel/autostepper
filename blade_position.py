@@ -1,3 +1,4 @@
+# This Python file uses the following encoding: utf-8
 
 def gdsii_to_blades(left,right, top, bottom):
     """
